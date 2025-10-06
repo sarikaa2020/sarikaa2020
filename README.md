@@ -66,10 +66,10 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Full-Sta
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://codolio.com/profile/SarikaaShree" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-%2300B2A9.svg?style=for-the-badge&logo=codemagic&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Codolio-%23FF6F00.svg?style=for-the-badge&logo=codemagic&logoColor=white" />
+</a>
   <a href="https://www.codechef.com/users/kit23bam046" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
