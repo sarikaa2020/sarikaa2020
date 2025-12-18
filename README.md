@@ -18,9 +18,8 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Full-Sta
 
 ##  Currently Working On
 
-- 🔹 Emotion-Aware Email Assistant using NLP & Machine Learning  
-- 🔹 Improving problem-solving skills through DSA practice  
-- 🔹 Learning model deployment with Flask and Streamlit  
+- 🔹 Automated TimeTable Generator using Genetic Algorithm implementation,Data processing,Optimization logic,File handling (CSV, HTML) 
+- 🔹 Improving problem-solving skills through DSA practice   
 - 🔹 Exploring real-world AI & IoT project integration
 
 
