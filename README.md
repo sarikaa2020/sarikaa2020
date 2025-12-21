@@ -14,14 +14,7 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Full-Sta
  . I’m also a **sportive girl** who believes in teamwork, dedication, and continuous improvement.  
  . My goal is to become a **skilled AI Engineer and Developer**, contributing to innovative and impactful projects in the tech community.
 
----
-
-##  Currently Working On
-
-- 🔹 Automated TimeTable Generator using Genetic Algorithm implementation,Data processing,Optimization logic,File handling (CSV, HTML) 
-- 🔹 Improving problem-solving skills through DSA practice   
-- 🔹 Exploring real-world AI & IoT project integration
-
+--- 
 
 ###  Tech Stack
 
@@ -66,9 +59,9 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Full-Sta
 
 
 
-###  Connect with Me  
+###  Connect with Me 
 
-<p align="center">
+<p align="centre">
   <a href="https://www.linkedin.com/in/sarikaa-shree-v-8b6719350" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
