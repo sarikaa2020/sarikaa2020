@@ -59,7 +59,7 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Full-Sta
 
 
 
-###  Connect with Me 
+###  Connect with Me
 
 <p align="centre">
   <a href="https://www.linkedin.com/in/sarikaa-shree-v-8b6719350" target="_blank">
