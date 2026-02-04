@@ -12,7 +12,7 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Full-Sta
 
  . I enjoy learning new tools, frameworks, and programming languages, and I’m currently working on projects involving **Python, React, and IoT.**  
  . I’m also a **sportive girl** who believes in teamwork, dedication, and continuous improvement.  
- . My goal is to become a **skilled AI Engineer and Developer**, contributing to innovative and impactful projects in the tech community.
+ . My goal is to become a **skilled AI Engineer and Developer**, contributing to innovative and impactful projects in the tech community.9
 
 --- 
 
@@ -52,7 +52,7 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Full-Sta
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarikaa2020&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-###  GitHub Trophies  
+###  GitHub Trophies 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sarikaa2020&theme=onedark&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies" />
 </p>
