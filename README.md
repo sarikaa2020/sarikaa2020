@@ -7,7 +7,7 @@
 ---
 
 ###  About Me  
-I am a **third-year Computer Science and Engineering (AI & ML)** student at **KIT – Kalaignar Karunanidhi Institute of Technology**.  
+I am a **final-year Computer Science and Engineering (AI & ML)** student at **KIT – Kalaignar Karunanidhi Institute of Technology**.  
 I’m passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**, and I love exploring how technology can solve real-world problems efficiently.  
 
  . I enjoy learning new tools, frameworks, and programming languages, and I’m currently working on projects involving **Python, React, and IoT.**  
