@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sarikaa Shree V</h1>
 
 <h3 align="center">
-AI & Machine Learning Student | Python Developer | Future AI Engineer
+AI & ML Student • Problem Solver • Future AI Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Full+Stack+Learner;Building+Smart+Solutions;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Full+Stack+Development+Enthusiast;Building+Technology+for+Real-World+Impact;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
