@@ -1,7 +1,10 @@
-<h1 align="center">Hi, I'm Sarikaa Shree V 👋</h1>
+<h1 align="center">Hi 👋, I'm Sarikaa Shree V</h1>
+
+<h3 align="center">AI & Machine Learning Enthusiast | Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Python+Developer;Building+Smart+Solutions;Exploring+Full+Stack+Development;Always+Learning+New+Technologies" />
+🚀 Building intelligent solutions with AI, ML, and Full-Stack Development<br>
+🌱 Continuously learning, creating, and innovating
 </p>
 ---
 
