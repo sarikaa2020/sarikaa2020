@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarikaa Shree V</h1>
+<h1 align="center">Hi , I'm Sarikaa Shree V</h1>
 
 <h3 align="center">AI & Machine Learning Enthusiast | Future Software Engineer</h3>
 
@@ -6,7 +6,7 @@
 🚀 Building intelligent solutions with AI, ML, and Full-Stack Development<br>
 🌱 Continuously learning, creating, and innovating
 </p>
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###  About Me  
 I am a **final-year Computer Science and Engineering (AI & ML)** student at **KIT – Kalaignar Karunanidhi Institute of Technology**.  
@@ -16,7 +16,7 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Full-Sta
  . I’m also a **sportive girl** who believes in teamwork, dedication, and continuous improvement.  
  . My goal is to become a **skilled AI Engineer and Developer**, contributing to innovative and impactful projects in the tech community.9
 
---- 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
 ###  Tech Stack
 
@@ -45,7 +45,7 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Full-Sta
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###  GitHub Stats
 
@@ -53,7 +53,7 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Full-Sta
 ![](https://nirzak-streak-stats.vercel.app/?user=sarikaa2020&theme=holi&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarikaa2020&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###  GitHub Trophies 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sarikaa2020&theme=onedark&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies" />
@@ -75,14 +75,14 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Full-Sta
   </a>
 </p>
 
------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   
 ###  Contribution Graph  
 ![Sarikaa’s Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarikaa2020&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true)
 
 
----
+
 
 <p align="center">Thanks for visiting my GitHub profile! Let’s connect and build something amazing together. </p>
 
