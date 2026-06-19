@@ -1,41 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sarikaa Shree V</h1>
-
-<h3 align="center">
-AI & ML Student • Problem Solver • Future AI Engineer
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Full+Stack+Development+Enthusiast;Building+Technology+for+Real-World+Impact;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Sarikaa%20Shree%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=60" />
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 Final Year B.E. CSE (AI & ML) Student at **Kalaignar Karunanidhi Institute of Technology**
+ Final Year B.E. CSE (AI & ML) Student at **Kalaignar Karunanidhi Institute of Technology**
 
-💡 Passionate about Artificial Intelligence, Machine Learning, and Software Development.
+ Passionate about Artificial Intelligence, Machine Learning, and Software Development.
 
-🔭 Currently working on:
+ Currently working on:
 - AI-Based Applications
 - Machine Learning Projects
 - Full Stack Web Development
 
-🌱 Currently learning:
+ Currently learning:
 - Advanced Machine Learning
 - React.js
 - Cloud Technologies
 
-⚡ Fun Fact:
+ Fun Fact:
 - I enjoy solving coding challenges and exploring emerging technologies.
 - Strong believer in teamwork, continuous learning, and innovation.
 
-🎯 Career Goal:
+ Career Goal:
 > To become a skilled AI Engineer and Software Developer who builds impactful solutions for real-world problems.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Languages
 <p>
@@ -65,7 +59,7 @@ AI & ML Student • Problem Solver • Future AI Engineer
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarikaa2020&show_icons=true&theme=tokyonight" />
@@ -78,7 +72,7 @@ AI & ML Student • Problem Solver • Future AI Engineer
 
 ---
 
-## 🏆 GitHub Profile Summary
+##  GitHub Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarikaa2020&theme=github_dark" />
@@ -86,7 +80,7 @@ AI & ML Student • Problem Solver • Future AI Engineer
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarikaa2020&theme=tokyo-night&hide_border=true" />
@@ -94,7 +88,7 @@ AI & ML Student • Problem Solver • Future AI Engineer
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sarikaa-shree-v-8b6719350">
@@ -113,7 +107,7 @@ AI & ML Student • Problem Solver • Future AI Engineer
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile! ✨ <br>
+ Thanks for visiting my profile!  <br>
 Let's collaborate, innovate, and build impactful solutions together.
 </p>
 
