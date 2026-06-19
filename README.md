@@ -78,10 +78,10 @@ AI & Machine Learning Student | Python Developer | Future AI Engineer
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Profile Summary
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sarikaa2020&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarikaa2020&theme=github_dark" />
 </p>
 
 ---
