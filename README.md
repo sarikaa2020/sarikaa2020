@@ -6,7 +6,7 @@
 🚀 Building intelligent solutions with AI, ML, and Full-Stack Development<br>
 🌱 Continuously learning, creating, and innovating
 </p>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ###  About Me  
 I am a **final-year Computer Science and Engineering (AI & ML)** student at **KIT – Kalaignar Karunanidhi Institute of Technology**.  
